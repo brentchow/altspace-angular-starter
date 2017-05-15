@@ -3,7 +3,7 @@ This kit is to help you create an Altspace app using [Angular/CLI]. It will crea
 
 ![](/example/altspace-example-preview.gif)
 
-This project was generated with [Angular/CLI]
+This project was generated with [Angular/CLI] version 1.0.3.
 
 ## Development server
 
